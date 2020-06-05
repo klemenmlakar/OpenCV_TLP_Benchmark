@@ -5,4 +5,4 @@ according to the TLP benchmark. The TLP benchmark is a way of testing and evalua
 focused on long term tracking analysis. This aim of this project is the evaluation of the OpenCV tracking algorithms, 
 present in version 4.3.0, with the exclusion of the GOTURN algorithm.
 
-## Requirements ... to be edited
+## This is work in progress ... (to be further edited)
